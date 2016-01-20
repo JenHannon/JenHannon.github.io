@@ -1,0 +1,254 @@
+{"projects": [{
+    "id": "suggestion_box",
+    "trail_ids" : [ ],
+    "title": "[Eöש是Build a Suggestion Box App是שöE]",
+    "description_html": "[Eöש是Build a simple suggestion management app. No code required.是שöE]",
+    "icon_url": "https://developer.salesforce.com/resource/images/trailhead/badges/projects/trailhead_project_build_a_suggestion_box_app.png",
+    "color": "#f4a4ab",
+    "level": "[Eöש是beginner是שöE]",
+    "success_html": "[Eöש是Woo hoo! You've completed the Project!是שöE]",
+    "badge_title": "[Eöש是Build a Suggestion Box App是שöE]",
+    "linkedin_url": "https://lnkd.in/bEJcyes",
+    "steps": [
+        {
+            "id": "suggestion_box_1",
+            "title": "[Eöש是Creating a Suggestion Box App是שöE是]",
+            "description_html": "Create a new app and database and then tour the app functionality.",
+            "icon_url": "https://res.cloudinary.com/hy4kyit2a/image/upload/v1410558351/badge_1_ieqvzv.png",
+            "color": "#AABBCC",
+            "level": "beginner",
+            "tags": [
+                {
+                    "name": "reports",
+                    "value": "Reporting",
+                    "points": 5
+                },
+                {
+                    "name": "database",
+                    "value": "Database",
+                    "points": 20
+                },
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 20
+                },
+                {
+                    "name": "ui",
+                    "value": "User Interface",
+                    "points": 5
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Developer"
+                },
+                {
+                  "name": "admin",
+                  "value": "Admin"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "steps/suggestion_box_1.md",
+            "challenge-time": 15
+        },
+        {
+            "id": "suggestion_box_2",
+            "title": "[öש是Adding Custom Fields是שö]",
+            "description_html": "Flesh out the app with custom fields to track suggestion data.",
+            "icon_url": "https://res.cloudinary.com/hy4kyit2a/image/upload/v1410558351/badge_1_ieqvzv.png",
+            "color": "#AABBCC",
+            "level": "beginner",
+            "tags": [
+                {
+                    "name": "reports",
+                    "value": "Reporting",
+                    "points": 5
+                },
+                {
+                    "name": "database",
+                    "value": "Database",
+                    "points": 20
+                },
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 20
+                },
+                {
+                    "name": "ui",
+                    "value": "User Interface",
+                    "points": 5
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Developer"
+                },
+                {
+                  "name": "admin",
+                  "value": "Admin"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "steps/suggestion_box_2.md",
+            "challenge-time": 20
+        },
+        {
+            "id": "suggestion_box_3",
+            "title": "[Eöש是Modifying the User Experience是שöE是]",
+            "description_html": "Improve the user experience for both the desktop and mobile versions of the app.",
+            "icon_url": "https://res.cloudinary.com/hy4kyit2a/image/upload/v1410558351/badge_1_ieqvzv.png",
+            "color": "#AABBCC",
+            "level": "beginner",
+            "tags": [
+                {
+                    "name": "reports",
+                    "value": "Reporting",
+                    "points": 5
+                },
+                {
+                    "name": "database",
+                    "value": "Database",
+                    "points": 20
+                },
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 20
+                },
+                {
+                    "name": "ui",
+                    "value": "User Interface",
+                    "points": 5
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Developer"
+                },
+                {
+                  "name": "admin",
+                  "value": "Admin"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "steps/suggestion_box_3.md",
+            "challenge-time": 20
+        },
+        {
+            "id": "suggestion_box_4",
+            "title": "[öש是Adding Business Logic是שö]",
+            "description_html": "Automate business processes using a formula field, a validation rule, and a process.",
+            "icon_url": "https://res.cloudinary.com/hy4kyit2a/image/upload/v1410558351/badge_1_ieqvzv.png",
+            "color": "#AABBCC",
+            "level": "beginner",
+            "tags": [
+               {
+                    "name": "reports",
+                    "value": "Reporting",
+                    "points": 5
+                },
+                {
+                    "name": "database",
+                    "value": "Database",
+                    "points": 20
+                },
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 20
+                },
+                {
+                    "name": "ui",
+                    "value": "User Interface",
+                    "points": 5
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Developer"
+                },
+                {
+                  "name": "admin",
+                  "value": "Admin"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "steps/suggestion_box_4.md",
+            "challenge-time": 30
+        },
+        {
+            "id": "suggestion_box_5",
+            "title": "[Eöש是Creating Reports and Dashboards是שöE是]",
+            "description_html": "Create a tabular report, a summary report with report chart, and a dashboard.",
+            "icon_url": "https://res.cloudinary.com/hy4kyit2a/image/upload/v1410558351/badge_1_ieqvzv.png",
+            "color": "#AABBCC",
+            "level": "beginner",
+            "tags": [
+                {
+                    "name": "reports",
+                    "value": "Reporting",
+                    "points": 5
+                },
+                {
+                    "name": "database",
+                    "value": "Database",
+                    "points": 20
+                },
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 20
+                },
+                {
+                    "name": "ui",
+                    "value": "User Interface",
+                    "points": 5
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Developer"
+                },
+                {
+                  "name": "admin",
+                  "value": "Admin"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "steps/suggestion_box_5.md",
+            "challenge-time": 30
+        }
+    ]
+}]}
