@@ -1,0 +1,137 @@
+{"projects": [{
+    "_id": "quickstart-devzone-app",
+    "langLocale": "de.de",
+    "trail_ids" : [],
+    "title": "Schnelleinstieg: Erstellen Ihrer ersten Anwendung",
+    "description_html": "Erstellen Sie eine einfache Anwendung, um Besuche im nahegelegenen Nationalpark zu erfassen.",
+    "icon_url": "https://developer.salesforce.com/resource/images/trailhead/badges/projects/trailhead_project_quick_start_devzone_mobile_app.png",
+    "level": "Anfänger",
+    "success_html": "Hurra! Sie haben das Projekt abgeschlossen!",
+    "badge_title": "Schnelleinstieg: Erstellen Ihrer ersten Anwendung",
+    "linkedin_url": "https://lnkd.in/b4TkYK5",
+        "steps": [
+        {
+            "_id": "devzone-app-1",
+            "langLocale": "de.de",
+            "title": "Erstellen der Trailblazer-Anwendung",
+            "tags": [
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 25
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Entwickler"
+                },
+                {
+                  "name": "admin",
+                  "value": "Administrator"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "create_app1.md",
+            "challenge-time": 5
+        },
+        {
+            "_id": "devzone-app-2",
+            "langLocale": "de.de",
+            "title": "Ausprobieren der Anwendung",
+            "tags": [
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 25
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Entwickler"
+                },
+                {
+                  "name": "admin",
+                  "value": "Administrator"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "create_app2.md",
+            "challenge-time": 5
+        },
+        {
+            "_id": "devzone-app-3",
+            "langLocale": "de.de",
+            "title": "Hinzufügen einer Schnellaktion",
+            "tags": [
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 25
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Entwickler"
+                },
+                {
+                  "name": "admin",
+                  "value": "Administrator"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "create_app3.md",
+            "challenge-time": 5
+        },
+        {
+            "_id": "devzone-app-4",
+            "langLocale": "de.de",
+            "title": "Verwenden der mobilen Salesforce1-Anwendung",
+            "tags": [
+                {
+                    "name": "applogic",
+                    "value": "App Logic",
+                    "points": 25
+                }
+            ],
+            "roles": [
+                {
+                  "name": "dev",
+                  "value": "Entwickler"
+                },
+                {
+                  "name": "admin",
+                  "value": "Administrator"
+                }
+            ],
+            "products": [
+                {
+                  "name": "appcloud",
+                  "value": "App Cloud"
+                }
+            ],
+            "content_href": "create_app4.md",
+            "challenge-time": 5
+        }
+        ]
+    }
+    ]
+}
+
